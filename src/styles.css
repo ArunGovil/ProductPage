@@ -22,7 +22,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    height: 55vh;
+    height: 90vh;
     width: 90vw;
     padding: 10px;
 }
@@ -38,7 +38,7 @@
     background-color: #002366;
 }
 .imgintro {
-    width: 500px;
+    width: 45vw;
     height: auto;
 }
 .statistics {
@@ -74,7 +74,6 @@
     align-items: center;
     justify-content: center;
     width: 80vw;
-    height: 20vw;
     padding: 10px;
 }
 .footer {
@@ -138,6 +137,9 @@
 }
 
 @media only screen and (max-width: 600px) {
+    .intro {
+        height: 70vh;
+    }
     .cards {
         display: flex;
         flex-direction: column;
@@ -147,19 +149,16 @@
         display: flex;
         flex-direction: column;
     }
+    .brandline {
+        display: none;
+    }
     .footer {
         height: 50vh;
+        display: flex;
+        flex-direction: column-reverse;
     }
     .links {
         display: grid;
         grid-template-columns: 1fr 1fr;
-    }
-}
-
-@media only screen and (max-width: 400px) {
-    .footer {
-        height: 65vh;
-        display: flex;
-        flex-direction: column-reverse;
     }
 }
