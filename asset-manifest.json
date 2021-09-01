@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/product-landing-page/static/css/main.eb3c25a9.chunk.css",
+    "main.css": "/product-landing-page/static/css/main.21e43ced.chunk.css",
     "main.js": "/product-landing-page/static/js/main.54e31e57.chunk.js",
     "main.js.map": "/product-landing-page/static/js/main.54e31e57.chunk.js.map",
     "runtime-main.js": "/product-landing-page/static/js/runtime-main.f761bedf.js",
@@ -8,7 +8,7 @@
     "static/js/2.16add9f0.chunk.js": "/product-landing-page/static/js/2.16add9f0.chunk.js",
     "static/js/2.16add9f0.chunk.js.map": "/product-landing-page/static/js/2.16add9f0.chunk.js.map",
     "index.html": "/product-landing-page/index.html",
-    "static/css/main.eb3c25a9.chunk.css.map": "/product-landing-page/static/css/main.eb3c25a9.chunk.css.map",
+    "static/css/main.21e43ced.chunk.css.map": "/product-landing-page/static/css/main.21e43ced.chunk.css.map",
     "static/js/2.16add9f0.chunk.js.LICENSE.txt": "/product-landing-page/static/js/2.16add9f0.chunk.js.LICENSE.txt",
     "static/media/demo.54f70c77.png": "/product-landing-page/static/media/demo.54f70c77.png",
     "static/media/intro.41bfee55.png": "/product-landing-page/static/media/intro.41bfee55.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.f761bedf.js",
     "static/js/2.16add9f0.chunk.js",
-    "static/css/main.eb3c25a9.chunk.css",
+    "static/css/main.21e43ced.chunk.css",
     "static/js/main.54e31e57.chunk.js"
   ]
 }
