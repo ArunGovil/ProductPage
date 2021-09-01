@@ -6,9 +6,9 @@ const excCard = () => {
         <div className="wrap">
             <div className="icon" />
             <h3>Cashbacks</h3>
-            <p>Every tap inside the <br/>
-            YouPay app is encrypted <br/>
-            making it nearly impossible <br/>
+            <p>Every tap inside the 
+            YouPay app is encrypted 
+            making it nearly impossible
             to get your data! </p>
             <a className="lenk" href="#">Learn More</a>
         </div>

@@ -57,35 +57,37 @@ const App = () => {
         <div className="links">
           <div className="group">
             <h3>ABOUT</h3>
-            <a href="#" className="link">Link</a> <br/>
-            <a href="#" className="link">Link</a> <br/>
-            <a href="#" className="link">Link</a> <br/>
+            <a href="#" className="link">Blog</a> <br/>
+            <a href="#" className="link">Work Life</a> <br/>
+            <a href="#" className="link">Careers</a> <br/>
           </div>
           <div className="group">
             <h3>SECURITY</h3>
-            <a href="#" className="link">Link</a> <br/>
-            <a href="#" className="link">Link</a> <br/>
-            <a href="#" className="link">Link</a> <br/>
+            <a href="#" className="link">Data Policy</a> <br/>
+            <a href="#" className="link">Privacy</a> <br/>
+            <a href="#" className="link">Other</a> <br/>
           </div>
           <div className="group">
             <h3>TEAM</h3>
-            <a href="#" className="link">Link</a> <br/>
-            <a href="#" className="link">Link</a> <br/>
-            <a href="#" className="link">Link</a> <br/>
+            <a href="#" className="link">Founders</a> <br/>
+            <a href="#" className="link">Engineers</a> <br/>
+            <a href="#" className="link">Finance</a> <br/>
           </div>
           <div className="group">
             <h3>CONTACT</h3>
-            <a href="#" className="link">Link</a> <br/>
-            <a href="#" className="link">Link</a> <br/>
-            <a href="#" className="link">Link</a> <br/>
+            <a href="#" className="link">Mail Us</a> <br/>
+            <a href="#" className="link">Book a Call</a> <br/>
+            <a href="#" className="link">We are Social</a> <br/>
           </div>
         </div>
         <div className="brandline">
           <h2>YouPay</h2>
         </div>
       </div>
-      <div className="bottomline">
-        <p>Made with love by ArunGovil</p>
+      <div className="bottom">
+      <p className="bottomline">
+         Maintained by <a className="mention" href="https://twitter.com/be_like_arun">Arun Govil</a>
+       </p>
       </div>
     </div>
   );
