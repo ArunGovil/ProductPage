@@ -4,4 +4,4 @@
 
 ### Live <a href="https://arungovil.github.io/product-landing-page/">Demo</a> 😀️
 
-### Figma <a href ="https://figma.fun/e9GJXR"/>Design</a>
+### Figma <a href ="https://figma.fun/e9GJXR"/>Design</a> 🐥️
